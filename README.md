@@ -1,10 +1,16 @@
-## Hi, I'm Kyle 👋
+# Hi, I'm Kyle 👋
 
-I build full-stack web applications with C# and PHP, mainly for business operations software in the healthcare industry.
+I'm from Michigan and I build web applications for small and medium sized businesses, mainly in the healthcare industry.
 
 I work with:
-* 👨‍💻 .NET, Blazor, ASP.NET, CakePHP, Laravel
-* 🐋 Docker, DevOps for containerized deployments using CI/CD.
-* 💾 SQL Server, MySQL, PostgreSQL, SQLite databases
-* ☁️ Linux VMs & cloud environments, primarily Microsoft Azure
+* 👨‍💻 C# (.NET, Blazor), PHP (CakePHP, Laravel), and JavaScript/CSS
+* 🐋 Docker, DevOps, CI/CD Pipelines, YAML
+* 💾 Relational databases like SQL Server, MySQL, Postgres, and SQLite
+* ☁️ Cloud environments, primarily Microsoft Azure
+* 🖥️ Fedora/Ubuntu Linux environments
+* 🛜 Network infrastructure, on-prem or in cloud
 * ⚙️ Raspberry Pi for fun projects and automation
+
+## Looking for IT solutions?
+
+Check out my company, [North River Design](https://northriverdesign.com).
